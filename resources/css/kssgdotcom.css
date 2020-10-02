@@ -8,6 +8,10 @@
 body {
     font-family: "Lato", sans-serif;
 }
+.footer_loc {
+    display: block;
+    text-align: center;
+}
 /*To style the vertical tabs*/
 .K1_tab {
     float: left;
