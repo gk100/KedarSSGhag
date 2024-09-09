@@ -1,9 +1,9 @@
 * {
     box-sizing: border-box;
-    color: whitesmoke;
+    color: darkgoldenrod;
 }
 .K1_bgeffect {
-    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/vintage-wallpaper.png");
+    background-color:white;
 }
 body {
     font-family: "Lato", sans-serif;
@@ -18,7 +18,7 @@ body {
     border-right: 0px solid #ccc;
     /*background-color: #f1f1f1;*/
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/vintage-wallpaper.png");
-    color: whitesmoke;
+    color: darkgoldenrod;
     width: 20%;
     height: 80%;
 }
@@ -33,7 +33,7 @@ body {
 .K1_tab button{
     display: block;
     background-color: inherit;
-    color: whitesmoke;
+    color: darkgoldenrod;
     font-weight: bolder;
     padding: 10px 10px;
     width: 100%;
@@ -45,12 +45,12 @@ body {
 }
 /*to change background color of button when hover*/
 .K1_tab button:hover {
-    border: 0px solid whitesmoke;
+    border: 0px solid darkgoldenrod;
     border-radius: 0px;
 }
 /*to style active/current "tab button"*/
 .K1_tab button.active {
-    border: 0px solid whitesmoke;
+    border: 0px solid darkgoldenrod;
     border-radius: 0px;
 }
 .K1_container {
@@ -66,7 +66,7 @@ hr.K1_hr1 {
     overflow: visible; /* For IE */
     height: 28px;
     border-style: solid;
-    border-color: whitesmoke;
+    border-color: darkgoldenrod;
     border-width: 1px 0 0 0;
     border-radius: 28px;
     width: 100%;
@@ -77,7 +77,7 @@ hr.K1_hr1:before { /* Not really supposed to work, but does */
     height: 30px;
     margin-top: -31px;
     border-style: solid;
-    border-color: whitesmoke;
+    border-color: darkgoldenrod;
     border-width: 0 0 1px 0;
     border-radius: 20px;
 }
@@ -85,16 +85,16 @@ hr.K1_hr1:before { /* Not really supposed to work, but does */
 hr.K1_hr2 {
     border: 0;
     height: 1px;
-    background: whitesmoke;
-    background-image: linear-gradient(to right, #ccc, whitesmoke, #ccc);
+    background: darkgoldenrod;
+    background-image: linear-gradient(to right, #ccc, darkgoldenrod, #ccc);
 }
 /* Glyph, by Harry Roberts */
 hr.K1_hr3 {
     overflow: visible; /* For IE */
     padding: 0;
     border: none;
-    border-top: medium double whitesmoke;
-    color: whitesmoke;
+    border-top: medium double darkgoldenrod;
+    color: darkgoldenrod;
     text-align: center;
 }
 hr.K1_hr3:after {
@@ -122,7 +122,7 @@ p{
     float: left; 
     margin-right: 10px; 
     margin-bottom: 5px; 
-    border: solid whitesmoke 2px; 
+    border: solid darkgoldenrod 2px; 
     padding: 5px;
     height: 150px;
     width: 140px;
